@@ -78,7 +78,7 @@ def get_more_info():
             buttoms.update(temp_buttoms)
             print(j)
         if len(buttoms)>=4:
-            print("got it!")
+            print("got it! ")
             break
     
     if not bool(buttoms):
